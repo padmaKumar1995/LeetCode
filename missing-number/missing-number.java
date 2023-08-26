@@ -1,16 +1,21 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Set<Integer> wholeNumbers = new HashSet<Integer>();
+        int currSum = 0;
+        int max = 0;
+        boolean isZeroPresent = false;
         
         for(int i: nums) {
-            wholeNumbers.add(i);
+            max = Math.max(max, i);
+            currSum += i;
+            
+            if(i == 0)
+                isZeroPresent = true;
         }
         
-        for(int i = 0; i <= nums.length; i++) {
-            if(!wholeNumbers.contains(i))
-                return i;
+        int expectedSum = (max * (max + 1)) / 2;
+        if(expectedSum == currSum && isZeroPresent) {
+            return max + 1;
         }
-        
-        return 0;
+        return expectedSum - currSum;
     }
 }
