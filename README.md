@@ -16,9 +16,18 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmaKumar1995/LeetCode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/padmaKumar1995/LeetCode/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/padmaKumar1995/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/padmaKumar1995/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/padmaKumar1995/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/padmaKumar1995/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
