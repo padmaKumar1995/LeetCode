@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/padmaKumar1995/LeetCode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/padmaKumar1995/LeetCode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
